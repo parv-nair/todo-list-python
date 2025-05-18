@@ -13,7 +13,7 @@ This is a simple **command-line To-Do List application** built in Python. It all
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used In this project
 
 - **Python 3**
 - **File Handling**
